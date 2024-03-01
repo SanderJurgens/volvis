@@ -1,0 +1,8 @@
+# NetBeans specific 
+nbactions.xml
+
+# Ignore everything in target folder
+/target/*
+
+# Don't ignore project jar's
+!/target/volvis-*.jar
