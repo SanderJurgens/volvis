@@ -4,8 +4,8 @@
 ## What is it?
 VolVis is an application that allows the testing of various volume rendering techniques.
 From the user interface one can load volumes defined in the [AVS Field File Format](https://vis.lbl.gov/archive/NERSC/Software/express/help6.1/help/reference/dvmac/Field_Fi.htm), the default being a piggy bank, and apply a multitude of rendering algorithms to display its density data in different ways.
-These algorithms range from multithreaded ray casting based on [Maximum Intensity Projection](https://en.wikipedia.org/wiki/Maximum_intensity_projection) or [Isovalue Contour Surfaces](https://graphics.stanford.edu/papers/volume-cga88/volume.pdf)
-to 3 dimensional rendering techniques such as [Marching Cubes](https://nl.wikipedia.org/wiki/Marching_cubes), all to provide insight into the density values of the given volume.
+These algorithms range from multithreaded ray casting based on [Maximum Intensity Projection](https://wikipedia.org/wiki/Maximum_intensity_projection) or [Isovalue Contour Surfaces](https://graphics.stanford.edu/papers/volume-cga88/volume.pdf)
+to 3 dimensional rendering techniques such as [Marching Cubes](https://wikipedia.org/wiki/Marching_cubes), all to provide insight into the density values of the given volume.
 Additional color options are also provided using a transfer function that assigns RGB and opacity values to a density.
 
 ## Why did I make it?
